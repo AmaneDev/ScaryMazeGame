@@ -1,0 +1,112 @@
+﻿<Window x:Class="ScaryMaze.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Scary Maze"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        WindowStyle="None"
+        Background="Black"
+        Topmost="True">
+
+    <Grid>
+
+        
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <!-- hlavní obsah -->
+            <RowDefinition Height="Auto" />
+            <!-- spodní texty -->
+        </Grid.RowDefinitions>
+
+        <!-- Video background -->
+        <MediaElement x:Name="BackgroundVideo"
+          Source="Assets/Glitch.mp4"
+          LoadedBehavior="Play"
+          UnloadedBehavior="Manual"
+          Stretch="Fill"
+          IsMuted="True"
+          MediaEnded="BackgroundVideo_MediaEnded"
+          Panel.ZIndex="-1"/>
+
+        <!-- Hlavní obsah -->
+        <StackPanel Grid.Row="0"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Center"
+                    Orientation="Horizontal">
+
+            <StackPanel Orientation="Vertical"
+                        HorizontalAlignment="Center"
+                        Margin="0,0,50,50">
+
+                <TextBlock Text="SCARY MAZE"
+                           FontSize="60"
+                           Foreground="Red"
+                           HorizontalAlignment="Center"
+                           Margin="0,0,0,20"
+                           FontFamily="Harrington"/>
+
+                <TextBlock Text="AmaneDev and Franta Koukal 2026"
+                           FontSize="20"
+                           Foreground="White"
+                           HorizontalAlignment="Center"
+                           FontFamily="Gloss And Bloom"/>
+
+                <TextBlock Text="Select a punishment ☠"
+                           FontSize="30"
+                           Foreground="Red"
+                           HorizontalAlignment="Left"
+                           Margin="0,50,0,20"
+                           FontFamily="Harrington"/>
+
+                <StackPanel>
+                    <RadioButton x:Name="rbTurnOff" Content="Turn off a computer" GroupName="punishment" Foreground="White" FontSize="20" Background="#FF787878" VerticalAlignment="Center"/>
+                    <RadioButton x:Name="rbJumpscare" Content="Jumpscare" GroupName="punishment" Foreground="White" FontSize="20" Background="#FF787878" VerticalAlignment="Center"/>
+                    <RadioButton x:Name="rbFreeze" Content="Freeze a computer" GroupName="punishment" Foreground="White" FontSize="20" Background="#FF787878" VerticalAlignment="Center"/>
+                </StackPanel>
+                <Button x:Name="btnResetLevels" Margin="0,20,0,0" Content="Reset Levels" Width="200" Height="33" FontSize="20" Foreground="White"  HorizontalContentAlignment="Center" HorizontalAlignment="Left" Background="Red" Click="btnResetLevels_Click"/>
+                <Button x:Name="btnExitGame" Margin="0,20,0,0" Content="Exit Game" Width="200" Height="50" FontSize="20" Background="Red" Foreground="White"  HorizontalContentAlignment="Center" HorizontalAlignment="Left" Click="btnExitGame_Click"/>
+
+
+            </StackPanel>
+
+            <StackPanel Orientation="Vertical"
+                        HorizontalAlignment="Left"
+                        Margin="0,0,0,50">
+
+                <TextBlock Text="Select a Level"
+                           FontSize="30"
+                           Foreground="Red"
+                           HorizontalAlignment="Left"
+                           Margin="0,0,0,20"
+                           FontFamily="Harrington"/>
+
+                <WrapPanel x:Name="LevelPanel"
+                           HorizontalAlignment="Center"
+                           Width="600"/>
+
+            </StackPanel>
+
+        </StackPanel>
+
+        <!-- Spodní texty uprostřed -->
+        <StackPanel Grid.Row="1"
+                    HorizontalAlignment="Center"
+                    VerticalAlignment="Bottom"
+                    Margin="0,0,0,20">
+
+            <TextBlock Text="TIP: Use the mouse to navigate the maze. Don't touch the walls!"
+                       FontSize="20"
+                       Foreground="Gray"
+                       HorizontalAlignment="Center"/>
+
+            <TextBlock Text="Disclaimer: by playing this game, you agree that you are responsible for damaging your PC or/and data loss!"
+                       FontSize="20"
+                       Foreground="Gray"
+                       HorizontalAlignment="Center"
+                       Margin="0,10,0,0"/>
+        </StackPanel>
+
+    </Grid>
+
+</Window>
