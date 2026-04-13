@@ -20,7 +20,33 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Assets\Glitch.mp4" />
+    <Content Include="Assets\Glitch.mp4">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Update="LevelWindows\Level10 .xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LevelWindows\Level9.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LevelWindows\Level8.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LevelWindows\Level7.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LevelWindows\Level6.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LevelWindows\Level5.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="LevelWindows\Level4.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
   </ItemGroup>
 
 </Project>

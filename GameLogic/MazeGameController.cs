@@ -42,7 +42,7 @@ namespace ScaryMaze.GameLogic
 
                 if (tag == "Win")
                 {
-                    var nextLevel = new Level(CurrentLevel + 1); //vytvorim si objekt noveho levelu v parametru nactu dalsi level (o lvl vyssi nez stavajici) a posleze zavolam metodu pro samotne otevreni okna
+                    var nextLevel = new Level(CurrentLevel += 1); //vytvorim si objekt noveho levelu v parametru nactu dalsi level (o lvl vyssi nez stavajici) a posleze zavolam metodu pro samotne otevreni okna
                     nextLevel.OpenLevelWindow();
                     levelWindow.Close();
                     return;

@@ -1,6 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup />
+  <PropertyGroup>
+    <_LastSelectedProfileId>D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
   <ItemGroup>
     <Compile Update="LevelWindows\Level1.xaml.cs">
       <SubType>Code</SubType>

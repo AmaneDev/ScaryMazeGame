@@ -7,7 +7,8 @@
         Height="1080"
         Width="1920" ResizeMode="NoResize" WindowStyle="None">
 
-    <Canvas Name="GameCanvas" Background="Black" MouseMove="GameCanvas_MouseMove">
+    <Viewbox Stretch="Uniform">
+    <Canvas Name="GameCanvas" Background="Black" MouseMove="GameCanvas_MouseMove" Width="1920" Height="1080">
 
         
 
@@ -104,5 +105,6 @@
            Canvas.Top="950"/>
 
     </Canvas>
+    </Viewbox>
 
 </Window>

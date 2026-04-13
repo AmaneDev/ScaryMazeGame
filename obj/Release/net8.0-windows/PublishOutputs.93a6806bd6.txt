@@ -1,0 +1,7 @@
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Release\net8.0-windows\publish\ScaryMaze.exe
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Release\net8.0-windows\publish\Assets\bgMenuMusic.mp3
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Release\net8.0-windows\publish\Assets\Glitch.mp4
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Release\net8.0-windows\publish\ScaryMaze.dll
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Release\net8.0-windows\publish\ScaryMaze.deps.json
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Release\net8.0-windows\publish\ScaryMaze.runtimeconfig.json
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Release\net8.0-windows\publish\ScaryMaze.pdb

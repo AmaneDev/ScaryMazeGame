@@ -12,7 +12,7 @@ namespace ScaryMaze
     {
         string CSVLevelData = "levelData.csv";
         MediaPlayer bgMenuMusic = new MediaPlayer();
-        int CountOfLevels = 20; //počet levelů
+        int CountOfLevels = 10; //počet levelů
 
         public MainWindow()
         {
@@ -22,6 +22,7 @@ namespace ScaryMaze
                 CreateDefaultCsv();
 
             LoadMusic();
+            LoadVideo();
             LoadLevels();
         }
 
@@ -49,6 +50,15 @@ namespace ScaryMaze
             bgMenuMusic.Open(new Uri(absolutePath));
             bgMenuMusic.Volume = 0.5;
             bgMenuMusic.Play();
+        }
+
+        private void LoadVideo()
+        {
+            string relativePath = "Assets/Glitch.mp4";
+            string absolutePath = Path.GetFullPath(relativePath);
+
+            BackgroundVideo.Source = new Uri(absolutePath);
+            BackgroundVideo.Play();
         }
 
         private void BackgroundVideo_MediaEnded(object sender, RoutedEventArgs e)

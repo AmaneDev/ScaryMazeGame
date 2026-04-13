@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level10 .xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level10 .xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level9.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level9.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level8.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level8.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level7.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level6.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level5.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level3.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\gamelogic\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:gamelogic\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\gamelogic\\punishment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:gamelogic\\punishment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\gamelogic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:gamelogic\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\gamelogic\\mazegamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:gamelogic\\mazegamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level10 .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level10 .xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level9.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level9.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|c:\\users\\frtak\\onedrive\\plocha\\tohle bude jeste na dlouho\\aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa\\scarymazegame-fixed\\scarymazegame-fixed\\levelwindows\\level4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AD8880C-A054-4F71-BD55-C60626A4BA97}|ScaryMaze.csproj|solutionrelative:levelwindows\\level4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Level8.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level8.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level8.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level8.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level8.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowD8AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:13:02.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Level7.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level7.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level7.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level7.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level7.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wD8AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:12:58.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Level6.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level6.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level6.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level6.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level6.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAA5wD8AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:12:52.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Level5.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level5.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level5.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level5.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level5.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wD8AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:12:32.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Level3.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level3.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level3.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level3.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level3.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAQwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:12:23.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Level2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level2.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level2.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level2.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level2.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wD8AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:12:17.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Level1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level1.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level1.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level1.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level1.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAwwD8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:11:34.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Level1.xaml",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level1.xaml",
+              "RelativeDocumentMoniker": "LevelWindows\\Level1.xaml",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level1.xaml",
+              "RelativeToolTip": "LevelWindows\\Level1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T15:11:29.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\GameLogic\\Level.cs",
+              "RelativeDocumentMoniker": "GameLogic\\Level.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\GameLogic\\Level.cs",
+              "RelativeToolTip": "GameLogic\\Level.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:08:08.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Punishment.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\GameLogic\\Punishment.cs",
+              "RelativeDocumentMoniker": "GameLogic\\Punishment.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\GameLogic\\Punishment.cs",
+              "RelativeToolTip": "GameLogic\\Punishment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:11:20.438Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\GameLogic\\Player.cs",
+              "RelativeDocumentMoniker": "GameLogic\\Player.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\GameLogic\\Player.cs",
+              "RelativeToolTip": "GameLogic\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T15:11:19.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Level10 .xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level10 .xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level10 .xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level10 .xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level10 .xaml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:58:46.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Level9.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level9.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level9.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level9.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level9.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowD8AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T14:50:13.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Level9.xaml",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level9.xaml",
+              "RelativeDocumentMoniker": "LevelWindows\\Level9.xaml",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level9.xaml",
+              "RelativeToolTip": "LevelWindows\\Level9.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T14:50:12.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:35:47.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T13:35:42.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Level4.xaml",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level4.xaml",
+              "RelativeDocumentMoniker": "LevelWindows\\Level4.xaml",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level4.xaml",
+              "RelativeToolTip": "LevelWindows\\Level4.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T13:30:27.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Level4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level4.xaml.cs",
+              "RelativeDocumentMoniker": "LevelWindows\\Level4.xaml.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level4.xaml.cs",
+              "RelativeToolTip": "LevelWindows\\Level4.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAA1wD8AAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:30:18.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Level10 .xaml",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level10 .xaml",
+              "RelativeDocumentMoniker": "LevelWindows\\Level10 .xaml",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\LevelWindows\\Level10 .xaml",
+              "RelativeToolTip": "LevelWindows\\Level10 .xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-13T14:58:47.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MazeGameController.cs",
+              "DocumentMoniker": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\GameLogic\\MazeGameController.cs",
+              "RelativeDocumentMoniker": "GameLogic\\MazeGameController.cs",
+              "ToolTip": "C:\\Users\\frtak\\OneDrive\\Plocha\\tohle bude jeste na dlouho\\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\\ScaryMazeGame-fixed\\ScaryMazeGame-fixed\\GameLogic\\MazeGameController.cs",
+              "RelativeToolTip": "GameLogic\\MazeGameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T13:15:40.615Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

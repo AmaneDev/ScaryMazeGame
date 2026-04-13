@@ -13,6 +13,8 @@ using System.Windows;
 using System.Windows.Input;
 using System.Windows.Shapes;
 using ScaryMaze.GameLogic;
+using System.Runtime.InteropServices;
+using System.Windows.Threading;
 
 namespace ScaryMaze.LevelWindows
 {
@@ -21,6 +23,10 @@ namespace ScaryMaze.LevelWindows
         private Player player;
         private MazeGameController controller;
         private Point mouseOffset;
+        private bool isLevelStarted;
+
+        [DllImport("user32.dll")]
+        private static extern bool SetCursorPos(int X, int Y);
 
         public Level1()
         {
@@ -30,16 +36,10 @@ namespace ScaryMaze.LevelWindows
 
             player = new Player(PlayerRect);
             controller = new MazeGameController(this);
+            isLevelStarted = false;
 
             SetPositionToStart();
-
-            // startovní offset podle aktuální pozice myši
-            GameCanvas.Loaded += (s, e) =>
-            {
-                Point pos = Mouse.GetPosition(GameCanvas);
-                mouseOffset = new Point(pos.X - Canvas.GetLeft(PlayerRect) - PlayerRect.Width / 2,
-                                        pos.Y - Canvas.GetTop(PlayerRect) - PlayerRect.Height / 2);
-            };
+            Loaded += (_, __) => InitializeLevelStart();
         }
         public void SetPositionToStart()
         {
@@ -48,20 +48,34 @@ namespace ScaryMaze.LevelWindows
             player.Move(startX, startY);
         }
 
-        private void CaptureMouseStart(object sender, MouseEventArgs e)
+        private void ForceCursorToPlayerStart()
         {
-            // Startovní offset – kolikrát je hráč od kurzoru
-            Point pos = e.GetPosition(GameCanvas);
-            mouseOffset = new Point(pos.X - Canvas.GetLeft(PlayerRect) - PlayerRect.Width / 2,
-                                    pos.Y - Canvas.GetTop(PlayerRect) - PlayerRect.Height / 2);
+            Point playerPoint = PlayerRect.TransformToAncestor(this)
+                .Transform(new Point(PlayerRect.Width / 2, PlayerRect.Height / 2));
 
-            // od této chvíle přepneme na normální GameCanvas_MouseMove
-            this.MouseMove -= CaptureMouseStart;
-            GameCanvas.MouseMove += GameCanvas_MouseMove;
+            Point screenPoint = PointToScreen(playerPoint);
+            SetCursorPos((int)screenPoint.X, (int)screenPoint.Y);
+        }
+
+        private void InitializeLevelStart()
+        {
+            SetPositionToStart();
+
+            // posune myš na startovní pozici hráče až po načtení okna, aby se zabránilo problémům s nastavením kurzoru před zobrazením okna
+            Dispatcher.BeginInvoke(new Action(() =>
+            {
+                SetPositionToStart();
+                ForceCursorToPlayerStart();
+                mouseOffset = new Point(0, 0);
+                isLevelStarted = true;
+            }), DispatcherPriority.ContextIdle);
         }
 
         private void GameCanvas_MouseMove(object sender, MouseEventArgs e)
         {
+            if (!isLevelStarted)
+                return;
+
             Point pos = e.GetPosition(GameCanvas);
             player.Move(pos.X - mouseOffset.X, pos.Y - mouseOffset.Y);
 

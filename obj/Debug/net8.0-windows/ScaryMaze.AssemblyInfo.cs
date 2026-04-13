@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScaryMaze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be5de6226ff1fda602112adca0da82f0d222d95b")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScaryMaze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScaryMaze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

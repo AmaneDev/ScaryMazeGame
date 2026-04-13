@@ -1,0 +1,158 @@
+﻿<Window x:Class="ScaryMaze.LevelWindows.Level9"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        WindowStartupLocation="CenterScreen"
+        WindowState="Maximized"
+        Title="Level9"
+        Height="1080"
+        Width="1920" ResizeMode="NoResize" WindowStyle="None">
+
+    <Viewbox Stretch="Uniform">
+        <Canvas Name="GameCanvas" Background="Black" MouseMove="GameCanvas_MouseMove" Width="1920" Height="1080">
+
+
+
+
+            <!-- safe path -->
+
+            <Rectangle Name="Path1"
+                   Fill="Blue"
+                   Height="151"
+                   Width="91"
+                   Tag="Safe"
+                   Canvas.Left="10"
+                   Canvas.Top="871" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path2"
+                   Fill="Blue"
+                   Height="26"
+                   Width="239"
+                   Tag="Safe"
+                   Canvas.Left="37"
+                   Canvas.Top="573" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path3"
+                   Fill="Blue"
+                   Height="30"
+                   Width="421"
+                   Tag="Safe"
+                   Canvas.Left="276"
+                   Canvas.Top="837" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+            <Rectangle Name="Path4"
+                   Fill="Blue"
+                   Height="22"
+                   Width="1073"
+                   Tag="Safe"
+                   Canvas.Left="50"
+                   Canvas.Top="73" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path5"
+                   Fill="Blue"
+                   Height="28"
+                   Width="411"
+                   Tag="Safe"
+                   Canvas.Left="1331"
+                   Canvas.Top="846" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path6"
+                   Fill="Blue"
+                   Height="212"
+                   Width="27"
+                   Tag="Safe"
+                   Canvas.Left="1742"
+                   Canvas.Top="734" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path7"
+                   Fill="Blue"
+                   Height="272"
+                   Width="27"
+                   Tag="Safe"
+                   Canvas.Left="37"
+                   Canvas.Top="599" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+            <Rectangle Name="Path8"
+                   Fill="Blue"
+                   Height="476"
+                   Width="28"
+                   Tag="Safe"
+                   Canvas.Left="498"
+                   Canvas.Top="84" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+            <Rectangle Name="Path9"
+                   Fill="Blue"
+                   Height="572"
+                   Width="28"
+                   Tag="Safe"
+                   Canvas.Left="1123"
+                   Canvas.Top="73" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path10"
+                   Fill="Blue"
+                   Height="26"
+                   Width="176"
+                   Tag="Safe"
+                   Canvas.Left="521"
+                   Canvas.Top="482" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path11"
+                   Fill="Blue"
+                   Height="562"
+                   Width="26"
+                   Tag="Safe"
+                   Canvas.Left="250"
+                   Canvas.Top="305" HorizontalAlignment="Left" VerticalAlignment="Top"/>
+
+            <Rectangle Name="Path12"
+                   Fill="Blue"
+                   Height="334"
+                   Width="25"
+                   Tag="Safe"
+                   Canvas.Left="672"
+                   Canvas.Top="503" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+            <Rectangle Name="Path13"
+                   Fill="Blue"
+                   Height="24"
+                   Width="157"
+                   Tag="Safe"
+                   Canvas.Left="1151"
+                   Canvas.Top="621" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path14"
+                   Fill="Blue"
+                   Height="354"
+                   Width="23"
+                   Tag="Safe"
+                   Canvas.Left="1308"
+                   Canvas.Top="520" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <Rectangle Name="Path15"
+                   Fill="Blue"
+                   Height="23"
+                   Width="809"
+                   Tag="Safe"
+                   Canvas.Left="960"
+                   Canvas.Top="946" HorizontalAlignment="Left" VerticalAlignment="Center"/>
+
+            <!-- výhra -->
+            <Rectangle Name="Finish"
+                   Fill="Red"
+                   Height="36"
+                   Width="178"
+                   Tag="Win"
+                   Canvas.Left="782"
+                   Canvas.Top="940" HorizontalAlignment="Center" VerticalAlignment="Top"/>
+
+            <!-- PLAYER -->
+            <Rectangle Name="PlayerRect"
+           Width="20"
+           Height="20"
+           Fill="Yellow"
+           Canvas.Left="50"
+           Canvas.Top="950"/>
+
+        </Canvas>
+    </Viewbox>
+
+</Window>

@@ -21,8 +21,7 @@
 
         <!-- Video background -->
         <MediaElement x:Name="BackgroundVideo"
-          Source="Assets/Glitch.mp4"
-          LoadedBehavior="Play"
+          LoadedBehavior="Manual"
           UnloadedBehavior="Manual"
           Stretch="Fill"
           IsMuted="True"

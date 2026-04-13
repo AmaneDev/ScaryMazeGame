@@ -1,54 +1,143 @@
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\Assets\bgMenuMusic.mp3
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\Assets\Glitch.mp4
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.exe
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.deps.json
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.runtimeconfig.json
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.dll
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.pdb
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level1.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level1.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level2.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level3.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze_Content.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.cache
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.lref
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level2.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level3.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.g.resources
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfoInputs.cache
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfo.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.csproj.CoreCompileInputs.cache
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.dll
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\refint\ScaryMaze.dll
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.pdb
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.genruntimeconfig.cache
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ref\ScaryMaze.dll
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\Assets\bgMenuMusic.mp3
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\Assets\Glitch.mp4
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.deps.json
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.runtimeconfig.json
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.dll
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.pdb
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level1.baml
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\MainWindow.baml
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level1.g.cs
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level2.g.cs
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level3.g.cs
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\MainWindow.g.cs
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\App.g.cs
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze_Content.g.cs
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.cache
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.lref
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level2.baml
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level3.baml
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.g.resources
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfoInputs.cache
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfo.cs
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.csproj.CoreCompileInputs.cache
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.dll
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\refint\ScaryMaze.dll
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.pdb
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.genruntimeconfig.cache
+c:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ref\ScaryMaze.dll
+C:\Users\ssiry\Downloads\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.exe
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\Assets\bgMenuMusic.mp3
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\Assets\Glitch.mp4
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.exe
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.deps.json
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.runtimeconfig.json
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.dll
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\bin\Debug\net8.0-windows\ScaryMaze.pdb
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level1.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level1.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level2.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level3.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze_Content.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.cache
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level2.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level3.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.g.resources
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfoInputs.cache
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfo.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.csproj.CoreCompileInputs.cache
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.dll
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\refint\ScaryMaze.dll
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.pdb
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ScaryMaze.genruntimeconfig.cache
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\ref\ScaryMaze.dll
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level4.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level4.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level5.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level5.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level6.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level6.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level7.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level7.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level8.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level9.baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level8.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level9.g.cs
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level10 .baml
+C:\Users\frtak\OneDrive\Plocha\tohle bude jeste na dlouho\AAAAAAAAAAAAAAAAAAAAAAAAAAAAAA\ScaryMazeGame-fixed\ScaryMazeGame-fixed\obj\Debug\net8.0-windows\LevelWindows\Level10 .g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\Assets\bgMenuMusic.mp3
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\Assets\Glitch.mp4
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.exe
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.deps.json
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.runtimeconfig.json
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.dll
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.pdb
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level1.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level10 .baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level2.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level3.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level4.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level5.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level6.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level7.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level8.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level9.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\MainWindow.baml
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level1.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level10 .g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level2.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level3.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level4.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level5.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level6.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level7.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level8.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level9.g.cs
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\MainWindow.g.cs
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\App.g.cs
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze_Content.g.cs
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.cache
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\MainWindow.baml
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.g.resources
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.GeneratedMSBuildEditorConfig.editorconfig
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfoInputs.cache
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfo.cs
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.csproj.CoreCompileInputs.cache
+D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.sourcelink.json
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.dll
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\refint\ScaryMaze.dll
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.pdb
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.genruntimeconfig.cache
 D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ref\ScaryMaze.dll
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\MainWindow.baml
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.cache
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.g.resources
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfoInputs.cache
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.AssemblyInfo.cs
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.csproj.CoreCompileInputs.cache
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.dll
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\refint\ScaryMaze.dll
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.pdb
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level1.baml
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level1.g.cs
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level2.g.cs
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level3.g.cs
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.lref
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level2.baml
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level3.baml
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.exe
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.deps.json
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.runtimeconfig.json
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.dll
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\ScaryMaze.pdb
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level1.baml
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level1.g.cs
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level2.g.cs
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level3.g.cs
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze_MarkupCompile.lref
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level2.baml
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\LevelWindows\Level3.baml
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze.genruntimeconfig.cache
-C:\Users\AmaneHP\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ref\ScaryMaze.dll
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\bin\Debug\net8.0-windows\Assets\bgMenuMusic.mp3
-D:\OneDrive - AmaneDev\Soubory\Dokumenty a Škola\SŠE\APS\4.F\ScaryMaze\ScaryMaze\obj\Debug\net8.0-windows\ScaryMaze_Content.g.cs
